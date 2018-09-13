@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Hello world!!</h1>
+    <img src="/img/main_01.jpg" width="800" heigth="300" alt="" />
  
     <table>
         <thead>
@@ -22,6 +23,7 @@
                     <td>${test.a2}</td>
                 </tr>
             </c:forEach>
+            
         </tbody>
     </table>
  
