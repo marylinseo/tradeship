@@ -23,6 +23,11 @@
 	
 	<context:component-scan base-package="com.spring.controller" />
 	
-	
+	<resources location="/resources/css/, classpath=/resources/css/" mapping="/css/**" />
+	<resources location="/resources/fonts/, classpath=/resources/fonts/" mapping="/fonts/**" />
+	<resources location="/resources/img/, classpath=/resources/img/" mapping="/img/**" />
+	<resources location="/resources/js/, classpath=/resources/js/" mapping="/js/**" />
+	<resources location="/resources/sass/, classpath=/resources/sass/" mapping="/sass/**" />
+
 	
 </beans:beans>
