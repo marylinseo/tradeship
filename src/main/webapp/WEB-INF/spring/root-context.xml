@@ -20,7 +20,7 @@
         <property name="url"
             value="jdbc:mysql://127.0.0.1:3306/tradeship?useSSL=false&amp;serverTimezone=UTC">
         </property>
-        <property name="username" value="marylinseo"></property>
+        <property name="username" value="root"></property>
         <property name="password" value="k1035163"></property>
     </bean>    
 	
