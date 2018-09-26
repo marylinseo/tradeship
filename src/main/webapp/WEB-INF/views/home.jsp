@@ -13,7 +13,7 @@
 		<header id="header">
 			<div class="inner">
 				<a href="home.jsp">
-					<img src="/img/main_01.jpg" width="100%" height="300" alt="" />
+					<img src="/img/main_02.jpg" width="100%" height="300" alt="" />
 				</a>
 				<nav>
 					<ul>
